@@ -1,7 +1,7 @@
-# Beef soft tacos
+# steak soft tacos
 
 ## Ingredients
-* [seasoned beef](./seasoned_beef.md)
+* [seasoned steak](./seasoned_steak.md)
 * Soft corn tortillas
 * salsa
 * guacamole
@@ -11,7 +11,7 @@
 
 ## Method
 
-Prepare seasoned beef using recipe at [seasoned beef](./seasoned_beef.md), or just reheat remaining beef from previous meal.
+Prepare seasoned steak using recipe at [seasoned steak](./seasoned_steak.md), or just reheat remaining steak from previous meal.
 
 Heating the tortillas: For melted cheese, spread tortillas in single layer and sprinkle cheese on each tortilla. 
 Heat tortillas for 25 sec in microwave, then cover with foil.
